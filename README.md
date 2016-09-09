@@ -26,7 +26,7 @@
 ![image](https://github.com/LinHaoLove/LLHUIFont/blob/master/1.png)
         
         	 
-6, 效果(楷体的一种)
+6, 效果(一种楷体)
 		
 ![image](https://github.com/LinHaoLove/LLHUIFont/blob/master/5.png)
 
