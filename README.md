@@ -9,7 +9,7 @@
 3, 打开 Info.plist 文件在 Information Property List 下 Add Row,key是: Fonts provided by application,Type 是 Array,
 	 在此之下, Add row, 直接在 value 下天写字体文件包全称:LLHFont.ttf
 	 
-	 ![image](https://github.com/LinHaoLove/LLHUIFont/blob/master/3.png)
+![image](https://github.com/LinHaoLove/LLHUIFont/blob/master/3.png)
 	 
 	 
 4,找到字体名称(不同于字体文件包名称)
