@@ -16,16 +16,17 @@
 
 	方法1:用 Mac 的 Font Book 打开字体文件包.弹出框顶部显示的就是字体的名称.
 	方法2:在 Xcode 中打印,慢慢找吧.
-	![image](https://github.com/LinHaoLove/LLHUIFont/blob/master/2.png)
+![image](https://github.com/LinHaoLove/LLHUIFont/blob/master/2.png)
 	
 		
 5,如果上述步骤确定无误,但未显示效果.
 
         打开项目 Targets  中Build Phases->Copy Bundle Resources 中是否显示字体文件包,如果没有点击+ 添加.
-        ![image](https://github.com/LinHaoLove/LLHUIFont/blob/master/1.png)
+        
+![image](https://github.com/LinHaoLove/LLHUIFont/blob/master/1.png)
         
         	 
 6, 效果(楷体的一种)
 		
-	![image](https://github.com/LinHaoLove/LLHUIFont/blob/master/5.png)
+![image](https://github.com/LinHaoLove/LLHUIFont/blob/master/5.png)
 
