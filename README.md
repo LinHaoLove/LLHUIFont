@@ -21,7 +21,7 @@
 		
 5,如果上述步骤确定无误,但未显示效果.
 
-        	 打开项目 Targets  中Build Phases->Copy Bundle Resources 中是否显示字体文件包,如果没有点击+ 添加.
+        打开项目 Targets  中Build Phases->Copy Bundle Resources 中是否显示字体文件包,如果没有点击+ 添加.
         ![image](https://github.com/LinHaoLove/LLHUIFont/blob/master/1.png)
         
         	 
