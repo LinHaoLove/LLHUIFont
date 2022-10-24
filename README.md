@@ -2,12 +2,12 @@
 为 app 添加第三方字体
 
 
-1,下载所需要的字体文件包 举个栗子: LLHFont.ttf
+1,下载所需要的字体文件包 举个栗子: STAINGKA.ttf
 
 2, 将字体文件包拖进自己的项目. Add fileS to @"LLHUIFont.xcodeproj"
 
 3, 打开 Info.plist 文件在 Information Property List 下 Add Row,key是: Fonts provided by application,Type 是 Array,
-	 在此之下, Add row, 直接在 value 下天写字体文件包全称:LLHFont.ttf
+	 在此之下, Add row, 直接在 value 下天写字体文件包全称:STAINGKA.ttf
 	 
 ![image](https://github.com/LinHaoLove/LLHUIFont/blob/master/3.png)
 	 
